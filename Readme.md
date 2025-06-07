@@ -47,8 +47,8 @@ streamlit run streamlit_app.py
 1. Склонируйте репозиторий:
 
 ```bash
-git clone https://github.com/your_username/your_repo_name.git
-cd your_repo_name
+git clone https://github.com/ly4aznik/StreamlitAppWithYOLOAndDepthZoe.git
+cd StreamlitAppWithYOLOAndDepthZoe
 ```
 
 2. Соберите образ:
