@@ -83,7 +83,7 @@ docker run -p 8501:8501 depth-yolo-app
 
 ## 📈 Примеры интерфейса
 
-<img src="assets/app_interface.png" width="48%" />
+<img src="assets/app_interface.png" />
 
 ---
 
